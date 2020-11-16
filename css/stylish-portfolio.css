@@ -238,7 +238,7 @@ h6 {
   display: flex;
   height: 100%;
   width: 100%;
-  background-color: rgba(33, 37, 41, 0.2);
+  background-color: rgba(102, 145, 201, 0.7);
   position: absolute;
   top: 0;
   bottom: 0;
@@ -358,7 +358,7 @@ a:hover, a:focus, a:active {
 }
 
 .btn {
-  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.3);
   font-weight: 700;
 }
 
